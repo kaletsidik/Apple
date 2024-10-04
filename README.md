@@ -1,3 +1,2 @@
-# eshetu
-# Apple
+
 # Apple
